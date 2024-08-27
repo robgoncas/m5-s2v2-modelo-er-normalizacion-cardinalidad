@@ -1,0 +1,28 @@
+- Entidades (Rectangulo) ---
+
+-- Bancos
+
+-- Clientes
+
+Tipos Transacciones:
+--*Depositos
+--*Giros/Retiros/Transferencias
+--*Pagos de servicios
+
+
+--Cuentas
+
+--Estado de Cuentas (mensuales)
+--- balance inicial
+--- transacciones realizadas
+--- balance final
+--- fecha creacion
+--- mes informe
+
+
+-- Cartola Transferencias (hasta 12 meses)
+
+
+
+
+
